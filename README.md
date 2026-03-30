@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=120&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:c9973a&height=120&section=header" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Lovasoarm+aka+Prometheus+%F0%9F%91%BE;Not+here+to+fake+it.+Here+to+get+it.;Fundamentals+first%2C+always.;Building+CrazyDevs+from+scratch.)](https://github.com/lovasoarm)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=c9973a&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Lovasoarm+aka+Prometheus+%F0%9F%91%BE;Not+here+to+fake+it.+Here+to+get+it.;Fundamentals+first%2C+always.;Building+CrazyDevs+from+scratch.)](https://github.com/lovasoarm)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=lovasoarm&color=58a6ff&style=flat-square&label=profile+views)
 
@@ -38,7 +38,7 @@ Curious? → [Read it here](https://github.com/lovasoarm/myFunnyJS/blob/main/01_
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:58a6ff&height=2" />
 
-## 🛠️ Tech Stack *(for the moment)*
+## Tech Stack *(for the moment)*
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,dart,flutter,html,css,java" />
@@ -47,13 +47,13 @@ Curious? → [Read it here](https://github.com/lovasoarm/myFunnyJS/blob/main/01_
 
 
 
-## 🔥 Streak
+## Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=lovasoarm&theme=tokyonight&hide_border=true" />
 </p>
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lovasoarm/lovasoarm/output/github-contribution-grid-snake-dark.svg" />
@@ -63,7 +63,7 @@ Curious? → [Read it here](https://github.com/lovasoarm/myFunnyJS/blob/main/01_
 
 ---
 
-## 🔗 Find me
+## Find me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/lovasoarm"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
