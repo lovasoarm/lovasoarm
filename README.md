@@ -1,40 +1,39 @@
 # Hey, I'm Prometheus 👾
-### *Frontend dev in the making. CrazyDevs founder. Breaking JS for fun.*
+### *Not here to fake it. Here to actually get it.*
 
-> Based in Madagascar 🇲🇬 — building things that actually work, and teaching what schools forget to say.
+> Based in Madagascar 🇲🇬 — digging deep into the fundamentals because shortcuts are a lie.
+> Beginners shouldn't feel lost. That's my problem to solve.
 
 ---
 
 ## 🔭 Currently working on
-- **[CrazyDevs](https://crazydevs.company)** — a developer platform (Next.js + Supabase)
-- **MyFunnyJS** — a JS curriculum that doesn't waste your time
+- **[MyFunnyJS](https://github.com/lovasoarm/myFunnyJS)** — a JS curriculum that doesn't waste your time
+- **[CrazyDevs](https://crazydevs.company)** — a platform for devs who are tired of bad tutorials
 
 ## 🌱 Currently learning
 - TypeScript (in progress, honest about it)
-- C# (next on the list)
+- React → then Next.js (in that order)
 
 ## 💬 Ask me about
-JavaScript, Flutter/Dart, Next.js, Supabase, or why most dev tutorials are dishonest
+Java, JavaScript, Flutter/Dart, or why most dev tutorials set you up to fail
 
-## ⚡ Fun fact
-I'm writing a guide called *"Le Guide que ton prof aurait dû te donner le jour 1"* — because someone had to.
+## My mission
+Be solid. Not trendy. Master the basics so deeply that no AI, no hype, no framework churn can shake it.
+Beginners deserve someone who's been lost and found the way — not someone pretending it was always easy.
+
+## Fun fact
+I'm writing *"Le Guide que ton prof aurait dû te donner le jour 1"* — because someone had to write it.
 
 ---
 
-## 🛠️ Stack
+## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,nextjs,react,flutter,dart,java,supabase,firebase,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,dart,flutter,html,css,java" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=lovasoarm&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lovasoarm&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
 
 ## 🔥 Streak
 
@@ -42,7 +41,7 @@ I'm writing a guide called *"Le Guide que ton prof aurait dû te donner le jour 
   <img src="https://streak-stats.demolab.com?user=lovasoarm&theme=tokyonight&hide_border=true" />
 </p>
 
-## 🐍 Contribution snake
+## 🐍 Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lovasoarm/lovasoarm/output/github-contribution-grid-snake-dark.svg" />
@@ -55,7 +54,8 @@ I'm writing a guide called *"Le Guide que ton prof aurait dû te donner le jour 
 ## 🔗 Find me
 
 <p align="left">
-  <a href="https://linkedin.com/in/lovasoarm"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/lovasoarm"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://facebook.com/lovasoarm"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
   <a href="https://crazydevs.company"><img src="https://img.shields.io/badge/CrazyDevs-FF4500?style=for-the-badge&logo=firefoxbrowser&logoColor=white" /></a>
   <a href="https://github.com/lovasoarm"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
