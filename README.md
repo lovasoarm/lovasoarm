@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:c9973a&height=120&section=header" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=c9973a&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Lovasoarm+aka+Prometheus+%F0%9F%91%BE;Not+here+to+fake+it.+Here+to+get+it.;Fundamentals+first%2C+always.;Building+CrazyDevs+from+scratch.)](https://github.com/lovasoarm)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=c9973a&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Lovasoarm+aka+Aramis+%F0%9F%91%BE;Not+here+to+fake+it.+Here+to+get+it.;Fundamentals+first%2C+always.;Building+CrazyDevs+from+scratch.)](https://github.com/lovasoarm)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=lovasoarm&color=58a6ff&style=flat-square&label=profile+views)
 
