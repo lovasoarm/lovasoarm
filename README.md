@@ -32,8 +32,7 @@ Beginners deserve someone who's been lost and found the way → not someone pret
 
 ## Fun fact
 I'm writing *"Le Guide que ton prof aurait dû te donner le jour 1"* : because someone had to write it.
-Curious? → [Read it here](https://github.com/lovasoarm/myFunnyJS/blob/main/01_fundamentals/00_Le_Guide_que_ton_prof_aurait_du_te_donner_le_jour_1.md)
-
+Curious? → [Read it here](https://github.com/lovasoarm/myFunnyJS/blob/main/30_annexes/00_Le_Guide_que_ton_prof_aurait_du_te_donner_le_jour_1.md)
 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:58a6ff&height=2" />
