@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:c9973a&height=120&section=header" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=c9973a&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Lovasoarm+aka+Aramis+%F0%9F%91%BE;Not+here+to+fake+it.+Here+to+get+it.;Fundamentals+first%2C+always.;Building+CrazyDevs+from+scratch.)](https://github.com/lovasoarm)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=c9973a&center=true&vCenter=true&width=760&lines=Hey%2C+I'm+Lovasoarm+aka+Aramis;Fundamentals+first.+Systems+second.;Building+from+scratch%2C+in+public.;Learning+to+engineer%2C+not+just+to+code.)](https://github.com/lovasoarm)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=lovasoarm&color=58a6ff&style=flat-square&label=profile+views)
 
@@ -10,41 +10,194 @@
 
 ---
 
-> Based in Madagascar 🇲🇬 : digging deep into the fundamentals because shortcuts are a lie.
-> Beginners shouldn't feel lost. That's my problem to solve.
-
----
+> Based in Madagascar.
+>
+> I am building my software engineering foundation in public, with a simple rule:
+> understand the system before reaching for the tool.
+>
+> My direction is **Staff Engineer / Principal Engineer**, with a strong **Software Architecture
+> and Solutions Architecture** dimension, grounded in full-stack and backend engineering,
+> cloud technologies, and AI integration.
 
 ## Currently working on
-- **[MyFunnyJS](https://github.com/lovasoarm/myFunnyJS)** : a JS curriculum that doesn't waste your time
-- CrazyDevs : a platform for devs who are tired of bad tutorials *(loading...)*
 
-## Currently learning
-- TypeScript *(in progress, honest about it)*
-- React → then Next.js *(in that order)*
+### ARCHITECTE-FANTOME
 
-## Ask me about
-Fundamentals, JavaScript, Flutter/Dart, or why most dev tutorials set you up to fail
+**[ARCHITECTE-FANTOME](https://github.com/lovasoarm/ARCHITECTE-FANTOME)** is my main engineering project.
 
-## My mission
-Be solid. Not trendy. Master the basics so deeply that no AI, no hype, no framework churn can shake it.
-Beginners deserve someone who's been lost and found the way → not someone pretending it was always easy.
+It is a learning system built around the transition from writing code to making engineering decisions.
 
-## Fun fact
-I'm writing *"Le Guide que ton prof aurait dû te donner le jour 1"* : because someone had to write it.
-Curious? → [Read it here](https://github.com/lovasoarm/myFunnyJS/blob/main/30_annexes/00_Le_Guide_que_ton_prof_aurait_du_te_donner_le_jour_1.md)
+The path moves through:
 
+```text
+Fundamentals
+    ↓
+Software Engineering
+    ↓
+Backend and Systems
+    ↓
+Architecture
+    ↓
+Cloud and Platform
+    ↓
+Reliability and Security
+    ↓
+Cost and Product Decisions
+    ↓
+AI-assisted Engineering
+    ↓
+Technical Leadership
+    ↓
+Staff Engineer track
+```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:58a6ff&height=2" />
+The point is not to collect technologies.
 
-## Tech Stack *(for the moment)*
+It is to learn how to:
+
+**understand → build → break → repair → design → operate → explain → transfer**
+
+a system under real constraints.
+
+### MyFunnyJS
+
+**[MyFunnyJS](https://github.com/lovasoarm/myFunnyJS)** is where I build my programming foundations, especially around JavaScript and TypeScript.
+
+It started from a simple frustration: beginners are often pushed toward frameworks before they understand the language and the machine underneath it.
+
+So I am building the foundations first.
+
+## What I am working toward
+
+**Professional direction**
+
+> **Staff Engineer / Principal Engineer**, with a strong **Software Architecture and
+> Solutions Architecture** dimension.
+
+The technical foundation underneath that direction is full-stack and backend engineering,
+with a focus on cloud technologies, reliability, security, and AI integration.
+
+**What I am training toward**
+
+Not a title claim.
+
+I am training toward the engineering scope behind these roles: technical judgment,
+system ownership, architecture, trade-offs, reliability, security, cost awareness,
+clear communication, and influence across teams.
+
+## How I learn
+
+I try to keep the loop simple:
+
+```text
+Learn
+  ↓
+Build
+  ↓
+Break
+  ↓
+Debug
+  ↓
+Measure
+  ↓
+Document
+  ↓
+Defend the decision
+  ↓
+Try it somewhere else
+```
+
+The goal is to understand mechanisms well enough that a change of language,
+framework or platform does not reset everything to zero.
+
+## Current focus
+
+- Software architecture
+- System design
+- Staff / Principal engineering practices
+- Solutions architecture
+- Backend engineering
+- JavaScript and TypeScript
+- APIs and databases
+- Cloud technologies
+- Reliability and observability
+- Security
+- Cost and architectural trade-offs
+- AI integration and supervised automation
+- Technical communication and technical leadership
+
+Full-stack engineering is part of the foundation, not the final positioning.
+I am learning React and Next.js after the underlying web and TypeScript foundations are solid.
+
+## Engineering principles
+
+> Fundamentals before abstraction.
+
+> Evidence before confidence.
+
+> Simple before clever.
+
+> Measure before optimizing.
+
+> Security is part of architecture.
+
+> A tool is not a design decision.
+
+> Knowing why to reject a technology matters as much as knowing how to use it.
+
+> Changing a decision after new evidence is good engineering.
+
+## Writing
+
+I am also building **00-GUIDE**, a practical orientation guide for people starting in software engineering.
+
+It covers the questions that usually arrive before the first serious project:
+
+- what programming actually is
+- how languages differ
+- how to choose a path
+- what software roles really do
+- how projects become systems
+- how careers evolve
+- what remains valuable when tools change
+
+[Read 00-GUIDE](https://github.com/lovasoarm/myFunnyJS/blob/main/00-guide.md)
+
+The guide is being kept separate from the technical curriculum because orientation and skill training are two different jobs.
+
+## Tech I am using or learning
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,dart,flutter,html,css,java" />
+  <img src="https://skillicons.dev/icons?i=js,ts,dart,flutter,html,css,java,git,github,nodejs,react,nextjs" />
 </p>
 
+> This is a working list, not a claim of mastery.
 
+## One project at a time
 
+I am not trying to look experienced by listing everything I have touched.
+
+I would rather have fewer projects with:
+
+```text
+clear decisions
+real constraints
+measurable results
+documented failures
+useful trade-offs
+```
+
+than a long list of tutorials.
+
+## What comes later
+
+**CrazyDevs** is a future product direction, not an active project yet.
+
+For now, the priority is simpler:
+
+**build the foundations, build ARCHITECTE-FANTOME, and become a better engineer.**
+
+---
 
 ## Streak
 
@@ -65,7 +218,17 @@ Curious? → [Read it here](https://github.com/lovasoarm/myFunnyJS/blob/main/30_
 ## Find me
 
 <p align="left">
+  <a href="https://github.com/lovasoarm"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/lovasoarm"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://facebook.com/lovasoarm"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 </p>
 
+---
+
+<div align="center">
+
+### Still learning. Still building. Still improving.
+
+**From fundamentals to systems to engineering judgment.**
+
+</div>
