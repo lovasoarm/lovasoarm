@@ -161,7 +161,7 @@ It covers the questions that usually arrive before the first serious project:
 - how careers evolve
 - what remains valuable when tools change
 
-[Read 00-GUIDE](https://github.com/lovasoarm/myFunnyJS/blob/main/00-guide.md)
+[Read 00-GUIDE](https://github.com/lovasoarm/ARCHITECTE-FANTOME/blob/main/06-ANNEXES-TRANSVERSES/00-GUIDE.md)
 
 The guide is being kept separate from the technical curriculum because orientation and skill training are two different jobs.
 
